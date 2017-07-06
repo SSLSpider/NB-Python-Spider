@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../workspace/PycharmProjects/RMP_CN_Profs2/.idea/RMP_CN_Profs2.iml" filepath="$PROJECT_DIR$/../../../../workspace/PycharmProjects/RMP_CN_Profs2/.idea/RMP_CN_Profs2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Material_for_Study/DA_Analyze/第二期/codes02/lect02_proj_scrapy/.idea/lecture02_proj_scrapy.iml" filepath="$PROJECT_DIR$/../../../../Material_for_Study/DA_Analyze/第二期/codes02/lect02_proj_scrapy/.idea/lecture02_proj_scrapy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../link_extractor_Rev2/.idea/link_extractor_Rev2.iml" filepath="$PROJECT_DIR$/../link_extractor_Rev2/.idea/link_extractor_Rev2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/researcher_ChinaKY.iml" filepath="$PROJECT_DIR$/.idea/researcher_ChinaKY.iml" />
+    </modules>
+  </component>
+</project>
